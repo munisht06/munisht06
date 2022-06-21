@@ -42,4 +42,4 @@ I am a master's student studying Computer Science at the University of Florida.
 
 <!-- <a href="http://www.github.com/munisht06"><img src="https://activity-graph.herokuapp.com/graph?username=munisht06&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-![snake](https://github.com/munisht06/munisht06/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/munisht06/munisht06/blob/output/github-contribution-grid-snake.gif)
