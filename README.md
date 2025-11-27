@@ -1,12 +1,12 @@
 Hi 👋 My name is Munish Tanwar
 ==============================
 
-Graduate Student
+Software Engineer
 ----------------
 
-I am a master's student studying Computer Science at the University of Florida.
+I am a Software Engineer at Publix.
 
-* 🌍  I'm based in Gainesville
+* 🌍  I'm based in Tampa, FL
 * 🖥️  See my portfolio at [mtanwar.com](http://mtanwar.com)
 * ✉️  You can contact me at [munishtanwar77@gmail.com](mailto:munishtanwar77@gmail.com)
 
