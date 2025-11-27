@@ -1,33 +1,32 @@
-# Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , I'm Munish Tanwar
+# Hi, I'm Munish Tanwar 👋
 
-### Software Engineer at Publix
+Software Engineer at Publix building distributed systems and event-driven architectures. I specialize in full-stack development with React, TypeScript, Azure Functions, and Spring Boot—delivering measurable impact including 30% error reduction and 99.9% uptime in production.
 
-- 🔭 I'm currently working on **Building Full-Stack & Distributed Systems**
+🔗 [mtanwar.com](https://mtanwar.com/) | 💼 [LinkedIn](https://linkedin.com/in/munishtanwar) | 📧 munishtanwar77@gmail.com | 📄 [Resume](https://mtanwar.com/Munish_Tanwar_Resume.pdf)
 
-- 🌱 I'm currently learning **Kubernetes and Azure AI Foundry**
+## 🚀 Featured Projects
 
-- 📫 How to reach me **munishtanwar77@gmail.com**
+### [Automated Code Review Agent](link)
+Enterprise-grade AI code reviewer using Azure AI, OpenAI API, and GitHub Webhooks
+- Event-driven architecture with Azure Functions processing 100+ daily reviews
+- Full observability stack with OpenTelemetry and Application Insights
+- Infrastructure as Code using Terraform for reproducible deployments
 
-- 👨‍💻 All of my projects are available at **[https://mtanwar.com/](https://mtanwar.com/)**
+### [Your Second Best Project](link)
+One-line hook with quantifiable impact
 
-- 📄 Know about my experiences through **[my resume](https://mtanwar.com/Munish_Tanwar_Resume.pdf)**
+## 💻 Technical Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/munishtanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munishtanwar" height="30" width="40" /></a>
-<a href="https://leetcode.com/munishtanwar77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="munishtanwar77" height="30" width="40" /></a>
-</p>
+**Languages:** TypeScript, Python, Java, C#  
+**Frontend:** React, Tailwind CSS, Material-UI  
+**Backend:** Spring Boot, Node.js, Azure Functions, .NET  
+**Cloud & Infrastructure:** Azure, AWS, Docker, Kubernetes, Terraform  
+**Data:** PostgreSQL, MySQL, MongoDB, Redis
 
-### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,react,ts,js,docker,postgres,mysql,git,java,cs,dotnet,go,nodejs,mongodb,linux,fastapi,express,cpp,html,css,tailwind,jest,postman,tensorflow,firebase,figma,heroku,mui)](https://skillicons.dev)
- 
-### Badges:
+## 🎯 Currently
 
-<b>My GitHub Stats</b>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munisht06&show_icons=true&locale=en&layout=compact" alt="munisht06" /></p>  -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munisht06&show_icons=true&locale=en&layout=compact" alt="munisht06" /></p> -->
-<!-- <a href="http://www.github.com/munisht06"><img src="https://github-readme-stats.vercel.app/api?username=munisht06&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="munisht06's GitHub stats" /></a> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munisht06&" alt="munisht06" /></p>
+Building expertise in Kubernetes orchestration and Azure AI Foundry for production ML systems
 
-<!-- ![snake gif](https://github.com/munisht06/munisht06/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
+## 📈 GitHub Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=munisht06&theme=dark)
