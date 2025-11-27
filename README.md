@@ -40,16 +40,25 @@
 
 ### 🛠️ Technical Arsenal
 
+🛠️ Technical Arsenal
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,go,react,nodejs,dotnet,azure,aws,docker,terraform,postgres,mongodb,mysql,git,tailwind,jest,postman,figma,github" />
   </a>
 </div>
-
 <br/>
-
-### 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=munisht06&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2" />
-  <img height="180" src="
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=munisht06&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=munisht06&theme=transparent&hide_border=true&fire=E25822" />
+</div>
+<br/>
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <a href="https://linkedin.com/in/munishtanwar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/munishtanwar77" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</div>
