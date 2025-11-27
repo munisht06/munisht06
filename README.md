@@ -19,8 +19,7 @@
 </p>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,cpp,cs,css,docker,dotnet,erlang,express,fastapi,figma,firebase,git,go,heroku,html,java,js,jest,jupyter,linux,mariadb,mui,mongodb,mssql,mysql,nodejs,pandas,postgres,postman,py,react,tailwind,tensorflow,ts)](https://skillicons.dev)
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
