@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **Building Full-Stack & Distributed Systems**
 
-- 🌱 I'm currently learning **Kubernetes and Azure AI Foundry **
+- 🌱 I'm currently learning **Kubernetes and Azure AI Foundry**
 
 - 📫 How to reach me **munishtanwar77@gmail.com**
 
@@ -29,4 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munisht06&show_icons=true&locale=en" alt="munisht06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munisht06&" alt="munisht06" /></p>
+
+![snake gif](https://github.com/munisht06/munisht06/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
