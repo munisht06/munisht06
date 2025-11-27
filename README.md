@@ -18,10 +18,8 @@
 <a href="https://leetcode.com/munishtanwar77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="munishtanwar77" height="30" width="40" /></a>
 </p>
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,react,ts,js,docker,postgres,mysql,git,java,cs,dotnet,go,nodejs,mssql,mongodb,linux,fastapi,express,cpp,html,css,tailwind,jest,postman,pandas,tensorflow,jupyter,firebase,figma,heroku,mariadb,mui,erlang)](https://skillicons.dev)
-<h3 align="left">Languages and Tools:</h3>
-
+### Main skills:
+[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,react,ts,js,docker,postgres,mysql,git,java,cs,dotnet,go,nodejs,mssql,mongodb,linux,fastapi,express,cpp,html,css,tailwind,jest,postman,pandas,tensorflow,jupyter,firebase,figma,heroku,mariadb,mui)](https://skillicons.dev)
  
 ### Badges:
 
