@@ -27,14 +27,10 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Automated Code Review Agent](LINK_TO_SPECIFIC_REPO)** | AI-powered PR reviewer with enterprise observability, event-driven architecture, and IaC. Processes 100+ daily reviews with distributed tracing. | Python, Azure AI, OpenAI API, Terraform, OpenTelemetry |
-| **[Gator Sublease Platform](LINK_TO_SPECIFIC_REPO)** | Full-stack student housing platform with secure JWT authentication, RESTful APIs, and optimized MongoDB schema for users and leases. | React, Go (Gin), MongoDB, JWT Auth |
-
-</div>
+|---------|-------------|------------|
+| **[Automated Code Review Agent](https://github.com/munisht06)** | AI-powered PR reviewer with enterprise observability, event-driven architecture, and IaC. Processes 100+ daily reviews with distributed tracing. | Python, Azure AI, OpenAI API, Terraform, OpenTelemetry, GitHub Webhooks |
+| **[Gator Sublease Platform](https://github.com/munisht06)** | Full-stack student housing platform with secure JWT authentication, RESTful APIs, and optimized MongoDB schema for users and leases. | React, Go (Gin), MongoDB, JWT Auth |
 
 <br/>
 
