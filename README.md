@@ -19,7 +19,7 @@
 </p>
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,react,ts,js,docker,postgres,mysql,git,java,cs,dotnet,go,nodejs,mssql,mongodb,linux,fastapi,express,cpp,html,css,tailwind,jest,postman,pandas,tensorflow,jupyter,firebase,figma,heroku,mariadb,mui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,react,ts,js,docker,postgres,mysql,git,java,cs,dotnet,go,nodejs,mongodb,linux,fastapi,express,cpp,html,css,tailwind,jest,postman,tensorflow,firebase,figma,heroku,mui)](https://skillicons.dev)
  
 ### Badges:
 
