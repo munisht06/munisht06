@@ -2,17 +2,9 @@
   <h1>Hi there, I'm Munish Tanwar <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"></h1>
   <h3>Software Engineer @ Publix | MS in CS '23 (University of Florida)</h3>
   
-  <p>
-    <a href="https://mtanwar.com/Munish_Tanwar_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
-    </a>
-    <a href="https://mtanwar.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-1c1917?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:munishtanwar77@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<p>
+  <a href="https://mtanwar.com/Munish_Tanwar_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a><a href="https://mtanwar.com/" target="_blank"><img src="https://img.shields.io/badge/🔗_Portfolio-1c1917?style=for-the-badge&logoColor=white" alt="Portfolio" /></a><a href="mailto:munishtanwar77@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
   
   <br/>
   
@@ -52,10 +44,5 @@
 <br/>
 <div align="center">
   <h3>🤝 Let's Connect</h3>
-  <a href="https://linkedin.com/in/munishtanwar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/munishtanwar77" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+  <a href="https://linkedin.com/in/munishtanwar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://leetcode.com/munishtanwar77" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </div>
