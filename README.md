@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Munish Tanwar <img src="https://media.giphy.com/media/hvRJCLFzcuMiQ/giphy.gif" width="30px"></h1>
+  <h1>Hi there, I'm Munish Tanwar <img src="[https://media.giphy.com/media/hvRJCLFzcuMiQ/giphy.gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)" width="30px"></h1>
   
   <h3>Software Engineer @ Publix | MS in CS '23 (University of Florida)</h3>
   
