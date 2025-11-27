@@ -17,7 +17,8 @@
   <br/>
   
   <p align="center" width="600px">
-   Software Engineer with 2.5 years building distributed systems and event-driven architectures at Publix. I've delivered <b>30% deployment error reduction</b>, <b>15% client feedback cycle improvements</b>, and <b>99.9% uptime</b> through React, TypeScript, Azure Functions, and .NET. <b>Azure Certified Developer | Currently seeking SDE opportunities.</b>
+   Software Engineer with 2.5 years building distributed systems and event-driven architectures at Publix. I've delivered <b>30% deployment error reduction</b>, <b>15% client feedback cycle improvements</b>, and <b>99.9% uptime</b> through React, TypeScript, Azure Functions, and .NET. 
+    <b>Azure Certified Developer | Currently seeking SDE opportunities.</b>
 </p>
 </div>
 
