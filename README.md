@@ -38,16 +38,16 @@
 
 <br/>
 
-### 🛠️ Technical Arsenal
 
-🛠️ Technical Arsenal
+
+### 🛠️ Technical Arsenal
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,go,react,nodejs,dotnet,azure,aws,docker,terraform,postgres,mongodb,mysql,git,tailwind,jest,postman,figma,github" />
   </a>
 </div>
 <br/>
-📊 GitHub Analytics
+### 📊 GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=munisht06&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=munisht06&theme=transparent&hide_border=true&fire=E25822" />
