@@ -1,56 +1,64 @@
 <div align="center">
-  <h1>Hi, I'm Munish Tanwar 👋</h1>
+  <h1>Hi there, I'm Munish Tanwar <img src="https://media.giphy.com/media/hvRJCLFzcuMiQ/giphy.gif" width="30px"></h1>
   
-  <h3>Software Engineer @ Publix</h3>
-
-  <p width="600px">
-    Building distributed systems and event-driven architectures. I specialize in full-stack development with React, TypeScript, Azure Functions, and Spring Boot—delivering measurable impact including <b>30% error reduction</b> and <b>99.9% uptime</b> in production.
-  </p>
-
+  <h3>Software Engineer @ Publix | MS in CS '23 (University of Florida)</h3>
   <p>
+    <a href="https://mtanwar.com/Munish_Tanwar_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+    </a>
     <a href="https://mtanwar.com/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-1c1917?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/munishtanwar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://mtanwar.com/Munish_Tanwar_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
-    </a>
     <a href="mailto:munishtanwar77@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+  </p>
+  <br/>
+  <p align="center" width="600px">
+     Software Engineer with 2.5 years building distributed systems and event-driven architectures at Publix. I've delivered 30% error reduction, 15% performance improvements, and 99.9% uptime through React, TypeScript, Azure Functions, and Spring Boot. <b>Currently seeking SDE opportunities in the Tampa area.</b>
   </p>
 </div>
 
-<br />
+<br/>
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🤖 [Automated Code Review Agent](YOUR_GITHUB_REPO_LINK_HERE)
-*Enterprise-grade AI code reviewer using Azure AI, OpenAI API, and GitHub Webhooks*
-- **Architecture:** Event-driven design with Azure Functions processing 100+ daily reviews.
-- **Observability:** Implemented full tracing stack with OpenTelemetry and Application Insights.
-- **DevOps:** Infrastructure as Code using Terraform for reproducible deployments.
+<div align="center">
 
-<br />
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Automated Code Review Agent](https://github.com/munisht06)** | AI-powered PR reviewer with enterprise observability, event-driven architecture, and IaC. Processes 100+ daily reviews with distributed tracing. | Python, Azure AI, OpenAI API, Terraform, OpenTelemetry, GitHub Webhooks |
+| **[Distributed Event System](https://github.com/munisht06)** | Scalable event-driven application achieving 99.9% uptime with real-time processing and monitoring. | Azure Functions, Spring Boot, TypeScript, PostgreSQL |
 
-## 💻 Technical Stack
+</div>
 
-<div align="left">
+<br/>
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,aws,azure,react,ts,js,docker,postgres,mysql,git,java,cs,dotnet,go,nodejs,mssql,mongodb,linux,fastapi,express,cpp,html,css,tailwind,jest,postman,pandas,tensorflow,jupyter,firebase,figma,heroku,mariadb,mui,erlang" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,react,nodejs,spring,dotnet,azure,aws,docker,kubernetes,terraform,postgres,mongodb,mysql,git,tailwind,jest,postman,figma" />
   </a>
 </div>
 
-<br />
+<br/>
 
-## 🎯 Currently
-Building expertise in **Kubernetes orchestration** and **Azure AI Foundry** for production ML systems.
+### 📊 GitHub Analytics
 
-<br />
-
-## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munisht06&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=munisht06&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=munisht06&theme=transparent&hide_border=true&fire=E25822" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <a href="https://linkedin.com/in/munishtanwar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/munishtanwar77" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </div>
