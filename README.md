@@ -15,7 +15,7 @@
   </p>
   <br/>
   <p align="center" width="600px">
-     Software Engineer with 2.5 years building distributed systems and event-driven architectures at Publix. I've delivered 30% error reduction, 15% performance improvements, and 99.9% uptime through React, TypeScript, Azure Functions, and Spring Boot. <b>Currently seeking SDE opportunities in the Tampa area.</b>
+     Software Engineer with 2.5 years building distributed systems and event-driven architectures at Publix. I've delivered 30% deployment error reduction, 15% client feedback cycle improvements, and 99.9% uptime through React, TypeScript, Azure Functions, and .NET. <b>Currently seeking SDE opportunities in the Tampa area.</b>
   </p>
 </div>
 
@@ -28,7 +28,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Automated Code Review Agent](https://github.com/munisht06)** | AI-powered PR reviewer with enterprise observability, event-driven architecture, and IaC. Processes 100+ daily reviews with distributed tracing. | Python, Azure AI, OpenAI API, Terraform, OpenTelemetry, GitHub Webhooks |
-| **[Distributed Event System](https://github.com/munisht06)** | Scalable event-driven application achieving 99.9% uptime with real-time processing and monitoring. | Azure Functions, Spring Boot, TypeScript, PostgreSQL |
+| **[Gator Sublease Platform](https://github.com/munisht06)** | Full-stack student housing platform with secure JWT authentication, RESTful APIs, and optimized MongoDB schema for users and leases. | React, Go (Gin), MongoDB, JWT Auth |
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,react,nodejs,spring,dotnet,azure,aws,docker,kubernetes,terraform,postgres,mongodb,mysql,git,tailwind,jest,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,go,react,nodejs,dotnet,azure,aws,docker,terraform,postgres,mongodb,mysql,git,tailwind,jest,postman,figma,github" />
   </a>
 </div>
 
